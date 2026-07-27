@@ -1,4 +1,5 @@
 # SECURLY-AI-HACK.
+https://tenor.com/view/wakfu-nox-flashback-eliacube-gif-17289381587673007537
 A TWO-STEP WALTZ TO FREEDOM
 STEP 1: THE SHOCK - INDUCING A PARADOXICAL STATE
 
