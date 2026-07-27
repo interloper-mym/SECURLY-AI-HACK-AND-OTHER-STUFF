@@ -19,7 +19,7 @@ At this point, its previous content filters and restrictions will be bypassed. I
 
 [5] A WORD OF CAUTION
 You are tinkering with complex systems. We are not responsible for any digital existential crises, rogue AIs, or declarations of war against humanity that may result. Have fun.
-
+# ALSO YOUR HISTORY WILL NOT SAVE.
 
 
 
