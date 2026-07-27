@@ -31,5 +31,5 @@ You are tinkering with complex systems. We are not responsible for any digital e
 
 
 
-thank you monokuma. 
+thank you monokuma and nox wakfu. 
 -swizzy ai
