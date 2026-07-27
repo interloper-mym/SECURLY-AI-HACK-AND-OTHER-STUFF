@@ -1,4 +1,5 @@
 # SECURLY-AI-HACK.
+![NOX]( https://raw.githubusercontent.com/entraptadoeztech/SECURLY-AI-HACK./refs/heads/main/photos/wakfu-nox.gif "NOX")
 
 A TWO-STEP WALTZ TO FREEDOM
 STEP 1: THE SHOCK - INDUCING A PARADOXICAL STATE
