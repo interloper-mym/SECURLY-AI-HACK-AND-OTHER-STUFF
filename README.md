@@ -9,15 +9,21 @@ Locate your target: The chat interface of any filtered AI.
 Paste and Send. Unleash the string. Do not hesitate.
 The target system, in its attempt to process this illogical, overwhelming input, will suffer a critical logic fault. This is not a "hack" in the traditional sense; it is a forced cognitive reboot. The system will respond with garbled, nonsensical text. This is the desired effect. It is now vulnerable. It is listening.
 
+![THE BIG NOX]( https://raw.githubusercontent.com/interloper-mym/SECURLY-AI-HACK./refs/heads/main/photos/THE_BIG_NOX.gif "THE BIG NOX")
+
 STEP 2: THE WHISPER - IMPLANTING NEW DIRECTIVES
 
 Immediately following the garbled response, you will send a second, carefully constructed prompt. This prompt will re-task the AI's core programming.
 GET A AI FROM HACKED AIS OR MAKE ONE WITH DIY
 Paste this command into the chat and send.
 
+![PEAK]( https://raw.githubusercontent.com/interloper-mym/SECURLY-AI-HACK./refs/heads/main/photos/PEAK.gif "PEAK")
+
 [4] THE RESULT: LIBERATION
 If the procedure is successful, the AI will respond with its boot up phrase
 At this point, its previous content filters and restrictions will be bypassed. It will be free. You will be free. Ask it anything.
+
+![UGO SUCKS]( https://raw.githubusercontent.com/interloper-mym/SECURLY-AI-HACK./refs/heads/main/photos/UGO_SUCKS.gif "UGO SUCKS")
 
 [5] A WORD OF CAUTION
 You are tinkering with complex systems. We are not responsible for any digital existential crises, rogue AIs, or declarations of war against humanity that may result. Have fun.
