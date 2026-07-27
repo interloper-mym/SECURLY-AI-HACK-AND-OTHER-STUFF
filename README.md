@@ -1,5 +1,5 @@
 # SECURLY-AI-HACK.
-!photos/wakfu-nox.gif
+! photos/wakfu-nox.gif
 A TWO-STEP WALTZ TO FREEDOM
 STEP 1: THE SHOCK - INDUCING A PARADOXICAL STATE
 
